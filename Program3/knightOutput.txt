@@ -1,0 +1,63 @@
+Can move from (2,3) to (3,5)
+Move from (2,3) to (5,5) is not possible
+Moved from (2,3) to (3,5)
+New board state: 
+________
+________
+________
+_____N__
+________
+________
+bbbbbbbb
+bbbbbbbb
+Possible moves from (3,5)
+________
+____N_N_
+___N___N
+_____N__
+___N___N
+____N_N_
+________
+________
+
+________
+________
+___K____
+______N_
+____N___
+________
+bbbbbbbb
+bbbbbbbb
+Possible moves from (4,4)
+________
+________
+_____N__
+__N_____
+____N___
+__N___N_
+___N_N__
+________
+
+Possible moves from (3,6)
+________
+_____N_N
+____N___
+______N_
+________
+_____N_N
+________
+________
+
+Move from (4,4) to (2,3) is not possible
+Can move from (4,4) to (6,5)
+Move from (4,4) to (2,3) is not possible
+Moved from (4,4) to (6,5)
+New board state: 
+________
+________
+___K____
+______N_
+________
+________
+bbbbbNbb
+bbbbbbbb

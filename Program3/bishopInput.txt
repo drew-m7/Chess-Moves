@@ -1,0 +1,30 @@
+readBoard
+________
+________
+___B____
+________
+________
+________
+________
+________
+checkMove 2 3 5 6
+checkMove 2 3 2 5
+checkMove 2 3 4 5
+makeMove 2 3 4 5
+genPossMoves 4 5
+readBoard
+___K____
+_b___N__
+________
+___B__N_
+____B___
+________
+b_bbbbbb
+bbbbbbbb
+writeBoard
+genPossMoves 3 3
+genPossMoves 4 4
+checkMove 3 3 6 0
+checkMove 3 3 6 6
+makeMove 3 3 6 0
+quit
